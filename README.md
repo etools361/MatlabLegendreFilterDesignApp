@@ -10,7 +10,7 @@ win10, Matlab2021a
 
 ### 程序结构
 
-更多技术细节可以参考$^{[1][2][3][4][5][6][7][8][9]}$
+更多技术细节可以参考$^{[1][2][3][4][5][6][7][8][9][10]}$
 
 ### 特性
 基于Matlab的appdesign工具开发了一套滤波器设计软件, 主要特点是：
@@ -49,7 +49,7 @@ AC仿真结果：
 瞬态仿真结果：
 ![BPF滤波器设计最终](src/BPF_7th_Design_Final_TRAN_Legendre.png)
 
-程序的Matalb源码已经上传GitHub中$^{[9]}$(https://github.com/etools361/MatlabLegendreFilterDesignApp)，有兴趣的同学可以下载试用体验，当然也欢迎技术交流。
+程序的Matalb源码已经上传GitHub中$^{[12]}$(https://github.com/etools361/MatlabLegendreFilterDesignApp)，有兴趣的同学可以下载试用体验，当然也欢迎技术交流。
 
 
 ### 参考(ref)
@@ -62,5 +62,6 @@ AC仿真结果：
 [7] : [模拟无源滤波器设计（七）-Elliptic滤波器设计详解](https://mp.weixin.qq.com/s/6b1HF81X93M9D4yfIAFROw) \
 [8] : [模拟无源滤波器设计（八）-Bessel滤波器设计详解](https://mp.weixin.qq.com/s/PE0A3CqseqTcnJ01mNUlhw) \
 [9] : [模拟无源滤波器设计（九）-Gaussian滤波器设计详解](https://mp.weixin.qq.com/s/7Ecx-IgPPrAIe0tRWhgxnw) \
-[10] : [欢迎关注电路设计小工具公众号](https://mp.weixin.qq.com/s/fxfEnir-hU0YvF9_CWyI6g) \
-[11] : [Matlab源码,勒让德滤波器设计软件](https://github.com/etools361/MatlabLegendreFilterDesignApp.git)
+[10] : [模拟无源滤波器设计（十）-Legendre滤波器设计详解](https://mp.weixin.qq.com/s/j1oscdyFEf2pvww_R7sLrg) \
+[11] : [欢迎关注电路设计小工具公众号](https://mp.weixin.qq.com/s/fxfEnir-hU0YvF9_CWyI6g) \
+[12] : [Matlab源码,勒让德滤波器设计软件](https://github.com/etools361/MatlabLegendreFilterDesignApp.git)
